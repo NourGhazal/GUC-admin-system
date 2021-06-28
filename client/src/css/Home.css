@@ -1,0 +1,29 @@
+.box {
+    width: 30%;
+    background: #343a40;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+hr {
+    border: 1px solid white;
+    margin-bottom: 50px;
+}
+.box .row {
+    margin-right: 50px;
+}
+.box .cell {
+  width: 50%;
+  
+}
+.box .Attend a
+{
+  width: max-content;
+  align-content: center;
+
+}
+.box .Attend
+{
+    width: fit-content;
+    margin-left: 100px;
+   
+}

@@ -1,0 +1,10 @@
+.boxMessage {
+    width:40%;
+    margin-left: 25%;
+    margin-top: 100px;
+    background: #343a40;
+    text-align: center;
+    height: 150px;
+    padding-top: 50px;
+}
+#heading { color: #ffffff; }

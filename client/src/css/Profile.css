@@ -1,0 +1,32 @@
+.grid {
+        border-radius: 1px solid black;
+        padding : 10px;
+        background: #343a40;
+        padding-top: 30px;
+
+}
+.withWord {
+    width : 40% ;
+    margin-left: 30%;
+    margin-top: 50px;
+}
+h3 {
+    text-align: center;
+    color: #191919;
+    font-weight: 500;
+}
+input {
+    background: white;
+}
+label {
+    text-decoration-color: white;
+}
+textarea {
+    height: 1000px;
+}
+.update {
+    margin-left: 50%;
+}
+.reset {
+    margin-left: 43%;
+}
